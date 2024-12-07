@@ -1,3 +1,6 @@
+
+![467474850_1289481315807759_7171576935250104961_n (1)](https://github.com/user-attachments/assets/8b401bf4-db41-439b-a5dc-1e9ee1dc0de2)
+
 # Open Hardware Monitor Data Display with ESP8266
 
 This project allows an ESP8266 (ESP-12E) microcontroller to retrieve system performance metrics such as CPU and GPU temperatures and loads from the Open Hardware Monitor Web API and display them in real-time on a 16x2 I2C LCD. It's a lightweight and efficient solution for creating a hardware monitoring dashboard.
