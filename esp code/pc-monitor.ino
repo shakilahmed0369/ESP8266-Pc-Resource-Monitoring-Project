@@ -8,8 +8,8 @@
 LiquidCrystal_I2C lcd(0x27, 16, 2); // Adjust the I2C address if necessary
 
 // Wi-Fi credentials
-const char* ssid = "Mr. Frey";       // Replace with your Wi-Fi SSID
-const char* password = "7k7h  frey"; // Replace with your Wi-Fi Password
+const char* ssid = "";       // Replace with your Wi-Fi SSID
+const char* password = ""; // Replace with your Wi-Fi Password
 
 // Open Hardware Monitor Web API URL
 const char* serverName = "http://192.168.0.104:8085/data.json"; // Your open hardware monitor server address
