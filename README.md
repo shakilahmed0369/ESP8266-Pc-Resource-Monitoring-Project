@@ -39,7 +39,7 @@ This project allows an ESP8266 (ESP-12E) microcontroller to retrieve system perf
 Connect the I2C LCD display to the ESP8266 as follows:
 | **LCD Pin** | **ESP8266 Pin** |
 |-------------|-----------------|
-| VCC         | 3.3V           |
+| VCC         | VIN            |
 | GND         | GND            |
 | SDA         | D2             |
 | SCL         | D1             |
